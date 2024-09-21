@@ -1,0 +1,143 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+    padding: 40px;
+}
+
+.Wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    background: #fff;
+    width: 1150px;
+    margin: 0 auto;
+}
+
+/* main-content */
+.main-content {
+    padding: 88px;
+}
+.main-content-title {
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin: 0 0 8px 0;
+}
+
+/* about me */
+
+.my-profesion {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 17px;
+    color: #000000;
+    margin: 0 0 18px 0;
+}
+
+.my-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin: 0 0 28px 0;
+}
+
+.my-descr {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 600px;
+}
+.about-me-container {
+    margin-bottom: 64px;
+}
+
+.sidebar {
+    width: 370px;
+    background: #E0EBFE;
+
+}
+
+.my-photo {
+    margin-top: 40px;
+}
+
+.Contacts-container,
+.Tech-Skills-container,
+.Soft-Skills-container {
+    margin: 48px 0 0 40px;
+}
+
+.sidebar-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #161D2A;
+    margin-bottom: 8px;
+}
+
+.contacts-type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+    margin-right: 8px;
+}
+
+.Contacts-item {
+    margin: 0;
+}
+
+.contacts-number {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+
+}
+
+.contacts-email {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #2979FF;
+}
+
+.skills-list {
+    margin: 0;
+    padding: 0 0 0 16px;
+
+}
+
+.skills-list-item {
+    color: #6D9BF5;
+
+}
+
+.skills-list-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+
+}
+
+/*
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+or 171%
+*/
+
+
